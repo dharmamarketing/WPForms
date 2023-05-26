@@ -1,0 +1,40 @@
+.form-page input
+{
+background: transparent !important;
+border-radius: 25px !important;
+border: 1px solid #000 !important;
+color: #000 !important;
+}
+
+.form-page textarea
+{
+background: transparent !important;
+border-radius: 25px !important;
+border: 1px solid #000 !important;
+color: #000 !important;
+}
+
+.form-page ::placeholder
+{
+    opacity: 1 !important;
+    color: #000 !important;
+}
+
+.form-page button
+{
+ background: #BEA02A !important;
+ 
+ margin: 0 auto !important;
+    width: 50% !important;
+}
+
+.form-page button:hover
+{
+ transform: translateY(-5PX);
+}
+
+.form-page .wpforms-submit-container
+{
+    text-align: left;
+}
+
